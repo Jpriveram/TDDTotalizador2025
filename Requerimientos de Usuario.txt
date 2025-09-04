@@ -1,0 +1,29 @@
+Requerimientos de Usuario: Ingenieria de Software Totalizador Ventas
+Funcionalidades Usuario:
+1. El usuario debe obtener el precio total ingresando la cantidad de items y precio por item, sin efectual el descuento y el impuesto respectivo.
+2. Agregar el formulario respectivo para que el usuario pueda ingresar la cantidad y el precio que le permita calcular el precio total
+3. El usuario debe obtener el descuento del precio total bajo estos parametros: 
+  3.1. Descuento de 3% si el total va desde 1000 $ - 2999 $
+  3.2. Descuento de 5% si el total va desde 3000 $ - 6999 $
+  3.3. Descuento de 7% si el total va desde 7000 $ - 9999 $
+  3.4. Descuento de 10% si el total va desde 10000 $ - 29999 $
+  3.5. Descuento de 15% si el total va desde 30000 $ para adelante
+ 
+4. El usuario debe pagar la tasa de impuesto del precio total bajo estos parametros:
+  4.1. Impuesto de 6.65% si el estado es UT
+  4.2. Impuesto de 8% si el estado es NV
+  4.3. Impuesto de 6.25% si el estado es TX
+  4.4. Impuesto de 4% si el estado es AL
+  4.5. Impuesto de 8.25% si el estado es CA
+  
+5. El usuario podra seleccionar el estado mediante un box - boton
+6. El usuario obtendra el precio total tomando en cuenta los valores del descuento y el impuesto segun corresponda
+
+Requerimientos del Desarrollador:
+1. Crear una clase llamada Totalizador con un constructor, donde se defina la cantidad y el precio
+2. En la clase Totalizador se debe implementar la funcion calcularDescuento
+3. En la clase Totalizador se debe implementar la funcion calcularImpuesto
+
+							       
+							       
+							       
