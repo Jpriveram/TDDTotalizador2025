@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-09-04T13:23:22.000Z",
+      "message": "feat: se muestra la cantidad de item ingresada",
+      "url": "https://github.com/Jpriveram/TDDTotalizador2025/commit/HEAD"
+    },
+    "stats": {
+      "total": 37,
+      "additions": 16,
+      "deletions": 21,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

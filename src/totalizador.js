@@ -1,5 +1,5 @@
-function sumar(a, b) {
-  return a + b;
+function totalizador(n) {
+  return n.toString();
 }
 
-export default sumar;
+export default totalizador;
