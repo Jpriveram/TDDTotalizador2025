@@ -1,5 +1,7 @@
-function totalizador(n) {
-  return n.toString();
+function get_precio(p){
+  return p.toString();
 }
-
-export default totalizador;
+function get_cantidad(c){
+  return c.toString();
+}
+export {get_precio, get_cantidad};

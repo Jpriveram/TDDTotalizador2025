@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "18a3d64acc0fc4ca80a0bb3148dc2dcee6aab716",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-09-04T13:23:22.000Z",
       "message": "feat: se muestra la cantidad de item ingresada",
-      "url": "https://github.com/Jpriveram/TDDTotalizador2025/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDTotalizador2025/commit/18a3d64acc0fc4ca80a0bb3148dc2dcee6aab716"
     },
     "stats": {
       "total": 37,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-09-04T13:40:53.000Z",
+      "message": "feat: muestra el precio del item",
+      "url": "https://github.com/Jpriveram/TDDTotalizador2025/commit/HEAD"
+    },
+    "stats": {
+      "total": 33,
+      "additions": 23,
+      "deletions": 10,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
