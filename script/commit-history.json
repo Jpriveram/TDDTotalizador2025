@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7d4130b4725ea7e374fb08ee29afb11ba929ae26",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-09-04T13:52:51.000Z",
       "message": "feat: muestra precio neto",
-      "url": "https://github.com/Jpriveram/TDDTotalizador2025/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDTotalizador2025/commit/7d4130b4725ea7e374fb08ee29afb11ba929ae26"
     },
     "stats": {
       "total": 17,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-09-04T14:01:12.000Z",
+      "message": "feat: muestra el codigo de estado",
+      "url": "https://github.com/Jpriveram/TDDTotalizador2025/commit/HEAD"
+    },
+    "stats": {
+      "total": 25,
+      "additions": 22,
+      "deletions": 3,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
